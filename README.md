@@ -298,6 +298,15 @@ logEach( '%f', x4 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-array/minstd`][@stdlib/random/array/minstd]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers generated using a linear congruential pseudorandom number generator (LCG).</span>
+-   <span class="package-name">[`@stdlib/random-array/randu`][@stdlib/random/array/randu]</span><span class="delimiter">: </span><span class="description">create an array containing uniformly distributed pseudorandom numbers between 0 and 1.</span>
+-   <span class="package-name">[`@stdlib/random-base/minstd-shuffle`][@stdlib/random/base/minstd-shuffle]</span><span class="delimiter">: </span><span class="description">A linear congruential pseudorandom number generator (LCG) whose output is shuffled.</span>
+-   <span class="package-name">[`@stdlib/random-strided/minstd-shuffle`][@stdlib/random/strided/minstd-shuffle]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers generated using a linear congruential pseudorandom number generator (LCG) whose output is shuffled.</span>
+
 </section>
 
 <!-- /.related -->
@@ -380,6 +389,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 [@stdlib/array/int32]: https://github.com/stdlib-js/array-int32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/minstd]: https://github.com/stdlib-js/random-array-minstd
+
+[@stdlib/random/array/randu]: https://github.com/stdlib-js/random-array-randu
+
+[@stdlib/random/strided/minstd-shuffle]: https://github.com/stdlib-js/random-strided-minstd-shuffle
+
+<!-- </related-links> -->
 
 </section>
 
